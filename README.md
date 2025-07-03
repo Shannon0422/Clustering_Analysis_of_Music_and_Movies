@@ -2,7 +2,7 @@
 
 **Objective:** Identify the relationship and clusters between the different types of Music and Movies. 
 
-**Dataset:** Young People Survey (https://www.kaggle.com/datasets/miroslavsabo/young-people-survey)
+**Dataset:** Young People Survey known as `responses.csv` (https://www.kaggle.com/datasets/miroslavsabo/young-people-survey)
 
 **Methodology used:** 
 - Social Network Analysis
